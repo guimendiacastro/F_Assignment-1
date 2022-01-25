@@ -5,6 +5,7 @@
   "main": "node.js",
   "scripts": {
     "test": "jest",
+    "pretest": "./node_modules/.bin/eslint server.js ",
     "start": "nodemon server.js"
   },
   "repository": {
