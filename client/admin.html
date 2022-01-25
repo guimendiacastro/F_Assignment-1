@@ -1,0 +1,144 @@
+<!doctype html>
+<html>
+	<head>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href="style.css" rel="stylesheet" >
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous" defer></script>
+    <script src='./script.js' defer></script>
+    <title>Basketball</title>
+  </head>
+    <body>
+	<h1 class ="display-3"> Basketball Society </h1>
+ 
+
+  <nav class="navbar navbar-light" style="background-color: #ffffff;">
+    <a class="navbar-brand" href="index.html">
+      <img src="durham_uni_logo.jpeg" width="40" height="40" class="d-inline-block align-top" alt="">
+      Home
+    </a>
+  </nav>
+<!-- Background image -->
+<div id = "back" class="container">
+  <img src="background_pic.png" alt="Snow" style="width:100%;">
+  <div class="centered"><a  id = 'center-words' href="#form-block">Click here to add a New Games</a></div>
+</div>
+
+<div id = "form-block" class="container">
+    <form method = 'POST' id = 'update_form1'>
+        <div class="form-group">
+          <label for="exampleInputEmail1">Team</label>
+          <select class="form-select" aria-label="Default select example" id = 'team1' name= 'team1'>
+            <option selected>Select a Team</option>
+            <option value="Josephine Butler A">Josephine Butler A</option>
+            <option value="Josephine Butler B">Josephine Butler B</option>
+            <option value="Van Mildert A">Van Mildert A</option>
+            <option value="Van Mildert B">Van Mildert B</option>
+            <option value="Collingwood A">Collingwood A</option>
+            <option value="Collingwood B">Collingwood B</option>
+            <option value="Ustinov A">Ustinov A</option>
+            <option value="John Snow A">John Snow A</option>
+            <option value="John Snow B">John Snow B</option>
+            <option value="St. Hild & St. Bede A">St. Hild & St. Bede A</option>
+            <option value="St. Hild & St. Bede B">St. Hild & St. Bede B</option>
+            <option value="St. Chad's A">St. Chad's A</option>
+            <option value="St. Aidan's A">St. Aidan's A</option>
+            <option value="St. Aidan's B">St. Aidan's B</option>
+            <option value="Hatfield A">Hatfield A</option>
+            <option value="St. Cuthbert's A">St. Cuthbert's A</option>
+            <option value="Grey A">Grey A</option>
+            <option value="University A">University A</option>
+            <option value="University B">University B</option>
+            <option value="South A">South A</option>
+            <option value="South B">South B</option>
+            <option value="St. John's A">St. John's A</option>
+            <option value="Combined Trevs St Marys">Combined Trevs St Marys</option>
+            <option value="Stephenson A">Stephenson A</option>
+            
+          </select>
+         <!--<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>--> 
+        </div>
+
+    
+
+
+
+
+        
+        <div class="form-group">
+          <label for="exampleInputEmail1">Team</label>
+          <select class="form-select" aria-label="Default select example" id = 'team2' name= 'team2'>
+            <option selected>Select a Team</option>
+            <option value="Josephine Butler A">Josephine Butler A</option>
+            <option value="Josephine Butler B">Josephine Butler B</option>
+            <option value="Van Mildert A">Van Mildert A</option>
+            <option value="Van Mildert B">Van Mildert B</option>
+            <option value="Collingwood A">Collingwood A</option>
+            <option value="Collingwood B">Collingwood B</option>
+            <option value="Ustinov A">Ustinov A</option>
+            <option value="John Snow A">John Snow A</option>
+            <option value="John Snow B">John Snow B</option>
+            <option value="St. Hild & St. Bede A">St. Hild & St. Bede A</option>
+            <option value="St. Hild & St. Bede B">St. Hild & St. Bede B</option>
+            <option value="St. Chad's A">St. Chad's A</option>
+            <option value="St. Aidan's A">St. Aidan's A</option>
+            <option value="St. Aidan's B">St. Aidan's B</option>
+            <option value="Hatfield A">Hatfield A</option>
+            <option value="St. Cuthbert's A">St. Cuthbert's A</option>
+            <option value="Grey A">Grey A</option>
+            <option value="University A">University A</option>
+            <option value="University B">University B</option>
+            <option value="South A">South A</option>
+            <option value="South B">South B</option>
+            <option value="St. John's A">St. John's A</option>
+            <option value="Combined Trevs St Marys">Combined Trevs St Marys</option>
+            <option value="Stephenson A">Stephenson A</option>
+            
+          </select>
+
+           
+        </div>
+        <div class="form-group">
+          <label for="exampleInputEmail1">Division</label>
+          <select class="form-select" aria-label="Default select example" id = 'div' name= 'div'>
+            <option selected>Open this select menu</option>
+            <option value="div1">Division 1</option>
+            <option value="div2">Division 2</option>
+          </select>
+        </div>
+
+
+        <div class="form-group">
+            <label for="exampleInputPassword1">Date</label>
+            <input type="date" class="form-control" id="date" placeholder="Date" name='date'>
+          </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Time</label>
+            <input type="time" class="form-control" id="time" placeholder="Time" name='time'>
+          </div>
+          <div class="form-group">
+            <label for="exampleInputPassword1">Score</label>
+            <input type="text" class="form-control" id="score" placeholder="Score" name='score'>
+          </div>
+          
+          <div class="form-group">
+            <label for="exampleInputPassword1">Venue</label>
+            <input type="text" class="form-control" id="venue" placeholder="Venue" name='venue'>
+          </div>
+          <div id = "but">
+        <button type="submit" class="btn btn-primary">Submit</button>
+          </div>
+      </form>
+    </div>
+
+
+
+
+
+
+
+
+
+
+    </body>
+</html>

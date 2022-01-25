@@ -1,0 +1,101 @@
+[
+  {
+    "team1": "DIV @",
+    "team2": "St. Cuthbert's A",
+    "div": "div2",
+    "date": "2021-10-16",
+    "time": "21:00",
+    "score": "45 -65",
+    "venue": "Sports Hall Section A"
+  },
+  {
+    "team1": "D A",
+    "team2": "St. Cuthbert's A",
+    "div": "div2",
+    "date": "2021-10-23",
+    "time": "19:00",
+    "score": "46 -27",
+    "venue": "Sports Hall Section B"
+  },
+  {
+    "team1": "Josephine Butler B",
+    "team2": "Van Mildert B",
+    "div": "div2",
+    "date": "2022-01-24",
+    "time": "14:40",
+    "score": "40 -0",
+    "venue": "Sports Place"
+  },
+  {
+    "team1": "St. John's A",
+    "team2": "St. Hild & St. Bede B",
+    "div": "div2",
+    "date": "2022-01-15",
+    "time": "20:00",
+    "score": "36 - 24",
+    "venue": "Sports Hall Section B"
+  },
+  {
+    "team1": "St. Chad's A",
+    "team2": "Collingwood B",
+    "div": "div2",
+    "date": "2022-01-15",
+    "time": "19:00",
+    "score": "22-81",
+    "venue": "Sports Hall Section A"
+  },
+  {
+    "team1": "Van Mildert A",
+    "team2": "Van Mildert A",
+    "div": "div2",
+    "date": "2022-01-08",
+    "time": "12:44",
+    "score": "669-96",
+    "venue": "There"
+  },
+  {
+    "team1": "Collingwood A",
+    "team2": "Collingwood A",
+    "div": "div2",
+    "date": "",
+    "time": "",
+    "score": "",
+    "venue": ""
+  },
+  {
+    "team1": "Van Mildert A",
+    "team2": "Van Mildert B",
+    "div": "div2",
+    "date": "",
+    "time": "",
+    "score": "",
+    "venue": ""
+  },
+  {
+    "team1": "Josephine Butler B",
+    "team2": "Van Mildert A",
+    "div": "div2",
+    "date": "",
+    "time": "",
+    "score": "",
+    "venue": ""
+  },
+  {
+    "team1": "Collingwood A",
+    "team2": "John Snow B",
+    "div": "div2",
+    "date": "",
+    "time": "",
+    "score": "",
+    "venue": ""
+  },
+  {
+    "team1": "Josephine Butler A",
+    "team2": "Van Mildert B",
+    "div": "div2",
+    "date": "",
+    "time": "",
+    "score": "",
+    "venue": ""
+  }
+]

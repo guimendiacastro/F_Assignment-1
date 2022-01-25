@@ -1,0 +1,110 @@
+[
+  {
+    "team1": "St. Mary's B",
+    "team2": "St. Cuthbert's A",
+    "div": "div1",
+    "date": "2021-10-16",
+    "time": "21:00",
+    "score": "45 -65",
+    "venue": "Sports Hall Section A"
+  },
+  {
+    "team1": "Collingwood A",
+    "team2": "St. Cuthbert's A",
+    "div": "div1",
+    "date": "2021-10-23",
+    "time": "19:00",
+    "score": "46 -27",
+    "venue": "Sports Hall Section B"
+  },
+  {
+    "team1": "Grey A",
+    "team2": "Trevelyan A",
+    "div": "div1",
+    "date": "2021-10-24",
+    "time": "21:00",
+    "score": "64 -17",
+    "venue": "Sports Arena A"
+  },
+  {
+    "team1": "Collingwood A",
+    "team2": "St. Mary's A",
+    "div": "div1",
+    "date": "2021-10-30",
+    "time": "19:00",
+    "score": "40 -0",
+    "venue": "Sports Hall Section B"
+  },
+  {
+    "team1": "St. Cuthbert's A",
+    "team2": "Grey A",
+    "div": "div1",
+    "date": "2021-10-30",
+    "time": "19:00",
+    "score": "40 -39",
+    "venue": "Sports Arena C"
+  },
+  {
+    "team1": "St. Mary's A",
+    "team2": "Grey A",
+    "div": "div1",
+    "date": "2021-11-06",
+    "time": "19:00",
+    "score": "0 - 0",
+    "venue": "Sports Hall Section B"
+  },
+  {
+    "team1": "Grey A",
+    "team2": "Collingwood A",
+    "div": "div1",
+    "date": "2021-11-13",
+    "time": "19:00",
+    "score": "25 -106",
+    "venue": "Sports Arena C"
+  },
+  {
+    "team1": "Trevelyan A",
+    "team2": "Collingwood A",
+    "div": "div1",
+    "date": "2021-11-20",
+    "time": "17:00",
+    "score": "24 -96",
+    "venue": "Sports Hall Section B"
+  },
+  {
+    "team1": "Trevelyan A",
+    "team2": "St. Mary's A",
+    "div": "div1",
+    "date": "2021-11-27",
+    "time": "17:00",
+    "score": "40 -0",
+    "venue": "Sports Hall Section B"
+  },
+  {
+    "team1": "St. Cuthbert's A",
+    "team2": "Trevelyan A",
+    "div": "div1",
+    "date": "2021-11-27",
+    "time": "18:00",
+    "score": "55 -26",
+    "venue": "Sports Hall Section C"
+  },
+  {
+    "team1": "Van Mildert A",
+    "team2": "John Snow A",
+    "div": "div1",
+    "date": "2022-01-15",
+    "time": "18:00",
+    "score": "40 - 0",
+    "venue": "Sports Arena C"
+  },
+  {
+    "team1": "Grey A",
+    "team2": "Van Mildert A",
+    "div": "div1",
+    "date": "2022-01-25",
+    "time": "21:00",
+    "score": "30 - 90",
+    "venue": "Sports Hall A"
+  }
+]
